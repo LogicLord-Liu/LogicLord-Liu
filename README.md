@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, i'm Liu. Nice to meet you!
+Let's embark on a journey of coding together!!!👋
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=liu-liuhai&show_icons=true&theme=tokyonight" /> </div>
+
+
 
 <!--
 **liu-liuhai/liu-liuhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
