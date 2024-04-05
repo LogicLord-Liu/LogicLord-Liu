@@ -15,7 +15,7 @@
 
 Hi there, I'm **Liu**, a **medical student**.
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
+I am **[the Han plural](https://zh.wikipedia.org/wiki/%E6%B1%89%E6%97%8F)**, which is a minority in China. Now I am studying medical imaging at **[SJTU](https://en.sjtu.edu.cn/)**.
 
 I love programming and I love Swift.
 
