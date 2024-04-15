@@ -144,7 +144,6 @@ I love programming and I love Swift.
 ### Contact me:
 
 - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
 - Weibo: [![Weibo](https://img.shields.io/badge/@祎只鞠婧祎-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5582600326)
 - Email: [![Email](https://img.shields.io/badge/luc444175@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luc444175.gmail.com)
 - Instagram: [![Instagram](https://img.shields.io/badge/@luchen715-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luchen715) 
