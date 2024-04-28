@@ -32,6 +32,8 @@ I love programming and I love Swift.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-007ACC?=flat-square&logo=Visual-Studio&logoColor=white)
+![Tor Browser](https://img.shields.io/badge/Tor_Browser-9370DB?style=flat-square&logo=Tor-Browser&logoColor=white)
+![Joplin](https://img.shields.io/badge/Joplin-007ACC?style=flat-square&logo=Joplin&logoColor=white)
 
 ### 🏆 Profile Trophy
 
@@ -147,8 +149,8 @@ I love programming and I love Swift.
 - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
 - Weibo: [![Weibo](https://img.shields.io/badge/@祎只鞠婧祎-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5582600326)
 - Email: [![Email](https://img.shields.io/badge/luc444175@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luc444175.gmail.com)
-- Instagram: [![Instagram](https://img.shields.io/badge/@luchen715-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luchen715) 
- 
+- Instagram: [![Instagram](https://img.shields.io/badge/@luchen715-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luchen715)
+- CSDN: [![CSDN](https://img.shields.io/badge/@LH_JJY-1DA1F2?style=flat-square&logo=CSDN&logoColor=white)](https://blog.csdn.net/LH_JJY?spm=1000.2115.3001.5343)
 
   ⭐️ From [liu-liuhai](https://github.com/liu-liuhai)                          
                         
