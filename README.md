@@ -150,7 +150,7 @@ I love programming and I love Swift.
 - Weibo: [![Weibo](https://img.shields.io/badge/@祎只鞠婧祎-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5582600326)
 - Email: [![Email](https://img.shields.io/badge/luc444175@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luc444175.gmail.com)
 - Instagram: [![Instagram](https://img.shields.io/badge/@luchen715-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luchen715)
-- CSDN: [![CSDN](https://img.shields.io/badge/@LogicLord-1DA1F2?style=flat-square&logo=CSDN&logoColor=white)](https://blog.csdn.net/LogicLord?spm=1000.2115.3001.5343)
+- CSDN: [![CSDN](https://img.shields.io/badge/@LH_JJY-1DA1F2?style=flat-square&logo=CSDN&logoColor=white)](https://blog.csdn.net/LH_JJY?spm=1000.2115.3001.5343)
 
   ⭐️ From [liu-liuhai](https://github.com/liu-liuhai)                          
                         
