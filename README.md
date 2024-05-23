@@ -136,7 +136,7 @@ I love programming and I love Swift.
 - 📫 Please email me if you have any questions.
 
 <h3 align="center">Let's embark on a journey of coding together!!!👋</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=liu-liuhai&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LogicLord&show_icons=true&theme=tokyonight" /> </div>
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python/c/c#/HTML/css and so on.
