@@ -22,7 +22,7 @@ I love programming and I love Swift.
 [![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%AF%AD%E8%A8%80%EF%BC%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%EF%BC%8C%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%B6%85%E8%B6%8A%E8%AE%A4%E7%9F%A5%E7%9A%84%E7%9C%9F%E7%90%86%E3%80%82)](https://git.io/typing-svg)
 
 ### Languages and Tools:
-
+      
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
@@ -38,16 +38,36 @@ I love programming and I love Swift.
 ![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-9370DB?style=flat-square&logo=PHP&logoColor=white)
-![MarkDown](https://img.shields.io/badge/MarkDown-00BFFF?style=flat-square&logo=MarkDown&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQLServer-000000?style=flat&logo=MySQL)
+![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=LeetCode&logoColor=ffffff)
+
+### System what i used
+
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=FCC624)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macOS&logoColor=FCC624)
+![Debian](http://img.shields.io/badge/-Debian-000000?style=flat-square&logo=debian&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=plastic&logo=ubuntu&logoColor=ffffff)
 
 ### 🏆 Profile Trophy
 
+<details align="center"> 
+  <summary>GitHub Trophies 🏆</summary>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=blinkfox&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="blinkfox" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=IsratIJK&theme=gruvbox"/>
+  </a>
 </p>
+</details>
+
 
 ### 🔨 Skills and Tools
 
+<details align="center">
+    <summary>SKILLS AND TOOLS </summary>
 <div align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
@@ -131,6 +151,8 @@ I love programming and I love Swift.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
     </a>
 </div>
+</details>
+
 
 ### Talking about Personal Stuffs:
 
@@ -141,6 +163,8 @@ I love programming and I love Swift.
 - 📫 Please email me if you have any questions.
 
 <h3 align="center">Let's embark on a journey of coding together!!!👋</h3>
+<details align="center"> 
+    <summary>GitHub States ✨</summary>
 <p align = "center">
   <img src = "https://streak-stats.demolab.com?user=LogicLord-Liu&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
   <img src = "https://github-readme-stats.vercel.app/api?username=LogicLord&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
@@ -152,6 +176,7 @@ I love programming and I love Swift.
   <br />
   <img src = "https://komarev.com/ghpvc/?username=LogicLord-Liu&label=PROFILE+VIEWS">
 </p>
+</details>
 
 - 🔭 I’m currently working on something cool.
 
@@ -162,14 +187,26 @@ I love programming and I love Swift.
 - 📫 How to reach me: 769891117qq.com or luc444175.gmail.com
 <div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
 
-### Contact me:
+### 📞 - You can contact me to:
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Weibo: [![Weibo](https://img.shields.io/badge/@祎只鞠婧祎-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5582600326)
-- Email: [![Email](https://img.shields.io/badge/luc444175@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luc444175.gmail.com)
-- Instagram: [![Instagram](https://img.shields.io/badge/@luchen715-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luchen715)
-- CSDN: [![CSDN](https://img.shields.io/badge/@LH_JJY-1DA1F2?style=flat-square&logo=CSDN&logoColor=white)](https://blog.csdn.net/LH_JJY?spm=1000.2115.3001.5343)
+- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-222222?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
+- Weibo: [![Weibo](https://img.shields.io/badge/@祎只鞠婧祎-222222?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5582600326)
+- Email: [![Email](https://img.shields.io/badge/luc444175@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:luc444175.gmail.com)
+- Instagram: [![Instagram](https://img.shields.io/badge/@luchen715-222222?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luchen715)
+- CSDN: [![CSDN](https://img.shields.io/badge/@LH_JJY-222222?style=flat-square&logo=CSDN&logoColor=white)](https://blog.csdn.net/LH_JJY?spm=1000.2115.3001.5343)
+- StackOverflow: [![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/25453206/logiclord)
 
+<hr>
+<p>
+  <h3 align="center">Support:</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/Liu.H">
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+    </a>
+  </p>
+</p>
+
+<hr>
   ⭐️ From [LogicLord-Liu](https://github.com/LogicLord-Liu)                          
                         
 
