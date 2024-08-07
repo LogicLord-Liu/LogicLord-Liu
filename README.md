@@ -34,6 +34,9 @@ I love programming and I love Swift.
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-007ACC?=flat-square&logo=Visual-Studio&logoColor=white)
 ![Tor Browser](https://img.shields.io/badge/Tor_Browser-9370DB?style=flat-square&logo=Tor-Browser&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-007ACC?style=flat-square&logo=Joplin&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ### 🏆 Profile Trophy
 
@@ -136,7 +139,17 @@ I love programming and I love Swift.
 - 📫 Please email me if you have any questions.
 
 <h3 align="center">Let's embark on a journey of coding together!!!👋</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LogicLord&show_icons=true&theme=tokyonight" /> </div>
+<p align = "center">
+  <img src = "https://streak-stats.demolab.com?user=LogicLord-Liu&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LogicLord&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LogicLord-Liu&layout=compact&line_height=20&theme=dracula&border_radius=20">
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=LogicLord-Liu&theme=cotton-candy&radius=64">
+  <br />
+  <img src = "https://komarev.com/ghpvc/?username=LogicLord-Liu&label=PROFILE+VIEWS">
+</p>
 
 - 🔭 I’m currently working on something cool.
 
