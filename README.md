@@ -137,9 +137,13 @@ I love programming and I love Swift.
 
 <h3 align="center">Let's embark on a journey of coding together!!!👋</h3>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LogicLord&show_icons=true&theme=tokyonight" /> </div>
+
 - 🔭 I’m currently working on something cool.
+
 - 🌱 I’m currently learning Everything I like.
+
 - 💬 Ask me about anything related to Java/Python/c/c#/HTML/css and so on.
+
 - 📫 How to reach me: 769891117qq.com or luc444175.gmail.com
 <div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
 
