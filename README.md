@@ -43,6 +43,11 @@ I love programming and I love Swift.
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQLServer-000000?style=flat&logo=MySQL)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=flat&logo=LeetCode&logoColor=ffffff)
+![FinalShell](https://img.shields.io/badge/-FinalShell-000000?style=flat&logo=FinalShell&logoColor=ffffff)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=Unity&logoColor=ffffff)
+![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=flat&logo=DataGrip&logoColor=ffffff)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains&logoColor=ffffff)
+
 
 ### System what i used
 
