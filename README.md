@@ -5,10 +5,10 @@
     <a title="Github Total Stars" target="_blank" href="https://github.com/blinkfox">
         <img src="https://img.shields.io/github/stars/blinkfox.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
-    <a title="Github Followers" target="_blank" href="https://github.com/blinkfox">
+    <a title="Github Followers" target="_blank" href="https://github.com/LogicLord-Liu">
         <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dblinkfox&color=blue&logo=github&longCache=true" />
     </a>
-    <a title="My Blog Site" target="_blank" href="https://blinkfox.github.io/">
+    <a title="My Blog Site" target="_blank" href="https://LogicLord-Liu.github.io/">
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-blinkfox.github.io-orange" />
     </a>
 </p>
@@ -151,7 +151,7 @@ I love programming and I love Swift.
 - Instagram: [![Instagram](https://img.shields.io/badge/@luchen715-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luchen715)
 - CSDN: [![CSDN](https://img.shields.io/badge/@LH_JJY-1DA1F2?style=flat-square&logo=CSDN&logoColor=white)](https://blog.csdn.net/LH_JJY?spm=1000.2115.3001.5343)
 
-  ⭐️ From [liu-liuhai](https://github.com/liu-liuhai)                          
+  ⭐️ From [LogicLord-Liu](https://github.com/LogicLord-Liu)                          
                         
 
 
