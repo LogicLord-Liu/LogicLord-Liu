@@ -37,6 +37,8 @@ I love programming and I love Swift.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-9370DB?style=flat-square&logo=PHP&logoColor=white)
+![MarkDown](https://img.shields.io/badge/MarkDown-00BFFF?style=flat-square&logo=MarkDown&logoColor=white)
 
 ### 🏆 Profile Trophy
 
