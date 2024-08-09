@@ -169,7 +169,7 @@ I love programming and I love Swift.
 
 <h3 align="center">Let's embark on a journey of coding together!!!👋</h3>
 <details align="center"> 
-    <summary>GitHub States ✨</summary>
+    <summary>GitHub Status ✨</summary>
 <p align = "center">
   <img src = "https://streak-stats.demolab.com?user=LogicLord-Liu&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
   <img src = "https://github-readme-stats.vercel.app/api?username=LogicLord&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
@@ -212,6 +212,7 @@ I love programming and I love Swift.
 </p>
 
 <hr>
+
   ⭐️ From [LogicLord-Liu](https://github.com/LogicLord-Liu)                          
                         
 
