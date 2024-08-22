@@ -8,8 +8,8 @@
     <a title="Github Followers" target="_blank" href="https://github.com/LogicLord-Liu">
         <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dblinkfox&color=blue&logo=github&longCache=true" />
     </a>
-    <a title="My Blog Site" target="_blank" href="https://LogicLord-Liu.github.io/">
-        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-blinkfox.github.io-orange" />
+    <a title="LeetCode" target="_blank" href="https://leetcode.com/u/LiuXuL//">
+        <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow" />
     </a>
 </p>
 
