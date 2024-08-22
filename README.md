@@ -201,6 +201,10 @@ I love programming and I love Swift.
 - CSDN: [![CSDN](https://img.shields.io/badge/@LH_JJY-222222?style=flat-square&logo=CSDN&logoColor=white)](https://blog.csdn.net/LH_JJY?spm=1000.2115.3001.5343)
 - StackOverflow: [![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/25453206/logiclord)
 
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
 <hr>
 <p>
   <h3 align="center">Support:</h3>
