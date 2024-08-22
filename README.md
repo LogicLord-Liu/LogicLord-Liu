@@ -216,7 +216,15 @@ I love programming and I love Swift.
 
 <hr>
 
-
+<a href="https://vinitshahdeo.dev">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my blog!
+          </td>
+      </tr>
+  </table>
+</a>
 
   ⭐️ From [LogicLord-Liu](https://github.com/LogicLord-Liu)                          
                         
