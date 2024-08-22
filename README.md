@@ -205,7 +205,6 @@ I love programming and I love Swift.
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
-<hr>
 <p>
   <h3 align="center">Support:</h3>
   <p>
@@ -216,6 +215,8 @@ I love programming and I love Swift.
 </p>
 
 <hr>
+
+
 
   ⭐️ From [LogicLord-Liu](https://github.com/LogicLord-Liu)                          
                         
