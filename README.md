@@ -195,7 +195,7 @@ I love programming and I love Swift.
 ### 📞 - You can contact me to:
 
 - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-222222?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Weibo: [![Weibo](https://img.shields.io/badge/@祎只鞠婧祎-222222?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5582600326)
+- Weibo: [![Weibo](https://img.shields.io/badge/@LabyrinthLark_9L-222222?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5582600326)
 - Email: [![Email](https://img.shields.io/badge/luc444175@gmail.com-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:luc444175.gmail.com)
 - Instagram: [![Instagram](https://img.shields.io/badge/@luchen715-222222?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/luchen715)
 - CSDN: [![CSDN](https://img.shields.io/badge/@LH_JJY-222222?style=flat-square&logo=CSDN&logoColor=white)](https://blog.csdn.net/LH_JJY?spm=1000.2115.3001.5343)
