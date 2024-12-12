@@ -189,7 +189,7 @@ I love programming and I love Swift.
 
 - 💬 Ask me about anything related to Java/Python/c/c#/HTML/css and so on.
 
-- 📫 How to reach me: 769891117qq.com or luc444175.gmail.com
+- 📫 How to reach me: lorcanilly@mail2tor.com or luc444175@gmail.com
 <div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
 
 ### 📞 - You can contact me to:
