@@ -13,11 +13,9 @@
     </a>
 </p>
 
-Hi there, I'm **Vannik**, a **medical student**.
+Hi there, I'm **Vannik** ，&nbsp; a **medical student** ，&nbsp; **Full Stack Web Developer** 🌐.
 
 I am **[the Han plural](https://zh.wikipedia.org/wiki/%E6%B1%89%E6%97%8F)**, which is a minority in China. Now I am studying medical imaging at **[SJTU](https://en.sjtu.edu.cn/)**.
-
-I love programming.
 
 [![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%AF%AD%E8%A8%80%EF%BC%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%EF%BC%8C%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%B6%85%E8%B6%8A%E8%AE%A4%E7%9F%A5%E7%9A%84%E7%9C%9F%E7%90%86%E3%80%82)](https://git.io/typing-svg)
 
@@ -58,9 +56,19 @@ I love programming.
 ![Debian](http://img.shields.io/badge/-Debian-000000?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=plastic&logo=ubuntu&logoColor=ffffff)
 
-### 🏆 Profile Trophy
+<img align="right" alt="GIF" src="https://github.com/LogicLord-Liu/LogicLord-Liu/blob/main/programming.webp" width="480px"/>
 
-<details align="center"> 
+### Talking about Personal Stuffs:
+
+- 👨🏽‍💻 &nbsp; I’m currently a medical student at my 4th year; 
+- 🤔 &nbsp; My interests are with iOS and macOS programming, AI in medical, Python etc..;
+- 💼 &nbsp; I’m pursuing a Bachelor's degree in Medical Imaging;
+- 💬 &nbsp; Ask me about anything, I am happy to help;
+- 📫 &nbsp; Please email me if you have any questions.
+
+<br>
+
+<details> 
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -70,10 +78,8 @@ I love programming.
 </details>
 
 
-### 🔨 Skills and Tools
-
-<details align="center">
-    <summary>SKILLS AND TOOLS </summary>
+<details>
+    <summary>🔨 Skills and Tools </summary>
 <div align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
@@ -160,20 +166,12 @@ I love programming.
 </details>
 
 
-### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
-
-<h3 align="center">Let's embark on a journey of coding together!!!👋</h3>
-<details align="center"> 
+<details> 
     <summary>GitHub Status ✨</summary>
 <p align = "center">
   <img src = "https://streak-stats.demolab.com?user=LogicLord-Liu&theme=date-night&hide_border=true&border_radius=50&card_width=800&background=FFFFFF00">
-  <img src = "https://github-readme-stats.vercel.app/api?username=LogicLord&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LogicLord-Liu&count_private=true&show_icons=true&line_height=30&theme=dracula&include_all_commits=true&hide=contribs,prs&border_radius=20">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LogicLord-Liu&layout=compact&line_height=20&theme=dracula&border_radius=20">
 </p>
 
@@ -188,9 +186,11 @@ I love programming.
 
 - 🌱 I’m currently learning Everything I like.
 
-- 💬 Ask me about anything related to Java/Python/c/c#/HTML/css and so on.
+- 💬 Ask me about anything related to **Java** &nbsp;/&nbsp; **Python** &nbsp;/&nbsp; **c** &nbsp;/&nbsp; **c#** &nbsp;/&nbsp; **HTML** &nbsp;/&nbsp; **css** and so on.
 
 - 📫 How to reach me: lorcanilly@mail2tor.com or luc444175@gmail.com
+<h3 align="center">Let's embark on a journey of coding together!!!👋</h3>
+
 <div align="center"> <img src="https://profile-counter.glitch.me/yang-tian-hub/count.svg" /> </div>
 
 ### 📞 - You can contact me to:
@@ -208,7 +208,7 @@ I love programming.
 
 <p>
   <h3 align="center">Support:</h3>
-  <p>
+  <p align="center">
     <a href="https://www.buymeacoffee.com/Liu.H">
       <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
     </a>
