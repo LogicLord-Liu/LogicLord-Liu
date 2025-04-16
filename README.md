@@ -1,8 +1,8 @@
 
-<h3 align="center">Hi, i'm Liu. Nice to meet you!</h3>
+<h3 align="center">Hi, i'm Vannik. Nice to meet you!</h3>
 
 <p align="center">
-    <a title="Github Total Stars" target="_blank" href="https://github.com/blinkfox">
+    <a title="Github Total Stars" target="_blank" href="https://github.com/LogicLord-Liu">
         <img src="https://img.shields.io/github/stars/blinkfox.svg?logo=star&label=Total%20Stars&color=success" />
     </a>
     <a title="Github Followers" target="_blank" href="https://github.com/LogicLord-Liu">
@@ -13,13 +13,14 @@
     </a>
 </p>
 
-Hi there, I'm **Liu**, a **medical student**.
+Hi there, I'm **Vannik**, a **medical student**.
 
 I am **[the Han plural](https://zh.wikipedia.org/wiki/%E6%B1%89%E6%97%8F)**, which is a minority in China. Now I am studying medical imaging at **[SJTU](https://en.sjtu.edu.cn/)**.
 
-I love programming and I love Swift.
+I love programming.
 
 [![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%AF%AD%E8%A8%80%EF%BC%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%EF%BC%8C%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%B6%85%E8%B6%8A%E8%AE%A4%E7%9F%A5%E7%9A%84%E7%9C%9F%E7%90%86%E3%80%82)](https://git.io/typing-svg)
+
 
 ### Languages and Tools:
       
