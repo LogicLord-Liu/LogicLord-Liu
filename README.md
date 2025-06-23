@@ -203,8 +203,10 @@ I am **[the Han plural](https://zh.wikipedia.org/wiki/%E6%B1%89%E6%97%8F)**, whi
 - StackOverflow: [![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/story/6241000)](https://stackoverflow.com/users/25453206/logiclord)
 
 | 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| :------------------------------------------------------------------------------------------------------------------------------: |
+|[![落日未眠 - 鞠婧祎](https://img.shields.io/badge/🎵_落日未眠-鞠婧祎-pink?logo=music&logoColor=white)](https://www.kugou.com/mixsong/cnfwujec.html?fromsearch=%E8%90%BD%E6%97%A5%E6%9C%AA%E7%9C%A0)|
+|[![风景旧曾谙 - 韦礼安，郭静](https://img.shields.io/badge/🎵风景旧曾谙-韦礼安，郭静-pink?logo=music&logoColor=white)](https://www.kugou.com/mixsong/vhlud8b.html?fromsearch=%E9%A3%8E%E6%99%AF%E6%97%A7%E6%9B%BE%E8%B0%99)|
+|[![吴哥窟 - 大笨](https://img.shields.io/badge/🎵吴哥窟-大笨-pink?logo=music&logoColor=white)](https://www.kugou.com/mixsong/6dyqvw84.html?fromsearch=%E5%90%B4%E5%93%A5%E7%AA%9F)|
 
 <p>
   <h3 align="center">Support:</h3>
